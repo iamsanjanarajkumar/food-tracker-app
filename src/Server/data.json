@@ -1,0 +1,1003 @@
+{
+  "contacts": [
+    {
+      "name": "Jalsa",
+      "address": "942, 21st Main Road, 2nd Stage, Banashankari, Bangalore",
+      "cuisine": "North Indian, Mughlai, Chinese",
+      "contact": "080 42297555 +91 9743772233",
+      "rate": "4.1/5",
+      "location": "Banashankari",
+      "Desc": "Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup"
+    },
+    {
+      "id": 326,
+      "name": "Spice Elephant",
+      "address": "2nd Floor, 80 Feet Road, Near Big Bazaar, 6th Block, Kathriguppe, 3rd Stage, Banashankari, Bangalore",
+      "cuisine": "Chinese, North Indian, Thai",
+      "contact": "080 41714161",
+      "rate": "4.1/5",
+      "location": "Banashankari",
+      "Desc": "Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani"
+    },
+    {
+      "id": 858,
+      "name": "San Churro Cafe",
+      "address": "1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",
+      "cuisine": "Cafe, Mexican, Italian",
+      "contact": "91 9663487993",
+      "rate": "3.8/5",
+      "location": "Banashankari",
+      "Desc": "Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza"
+    },
+    {
+      "id": 442,
+      "name": "Addhuri Udupi Bhojana",
+      "address": "1st Floor, Annakuteera, 3rd Stage, Banashankari, Bangalore",
+      "cuisine": "South Indian, North Indian",
+      "contact": "987565778",
+      "rate": "3.7/5",
+      "location": "Banashankari",
+      "Desc": "Masala Dosa"
+    },
+    {
+      "id": 891,
+      "name": "Grand Village",
+      "address": "10, 3rd Floor, Lakshmi Associates, Gandhi Bazaar Main Road, Above Reliance Trends, Basavanagudi, Bangalore",
+      "cuisine": "North Indian, Rajasthani",
+      "contact": "91 8026612447 91 9901210005",
+      "rate": "3.8/5",
+      "location": "Basavanagudi",
+      "Desc": "Panipuri, Gol Gappe"
+    },
+    {
+      "id": 496,
+      "name": "Timepass Dinner",
+      "address": "37, 5-1, 4th Floor, Bosco Court, Gandhi Bazaar Main Road, Basavanagudi, Bangalore",
+      "cuisine": "North Indian",
+      "contact": "91 9980040002 91 9980063005",
+      "rate": "3.8/5",
+      "location": "Basavanagudi",
+      "Desc": "Onion Rings, Pasta, Kadhai Paneer, Salads, Salad, Roti, Jeera Rice"
+    },
+    {
+      "id": 894,
+      "name": "Onesta",
+      "address": "2469, 3rd Floor, 24th Cross, Opposite BDA Complex, 2nd Stage, Banashankari, Bangalore",
+      "cuisine": "Pizza, Cafe, Italian",
+      "contact": "080 48653961 080 48655715",
+      "rate": "4.6/5",
+      "location": "Banashankari",
+      "Desc": "Farmhouse Pizza, Chocolate Banana, Virgin Mojito, Pasta, Paneer Tikka, Lime Soda, Prawn Pizza"
+    },
+    {
+      "id": 924,
+      "name": "Smacznego",
+      "address": "2470, 21 Main Road, 25th Cross, Banashankari, Bangalore",
+      "cuisine": "Cafe, Mexican, Italian, Momos, Beverages",
+      "contact": "91 9945230807 91 9743804471",
+      "rate": "4.2/5",
+      "location": "Banashankari",
+      "Desc": "Waffles, Pasta, Coleslaw Sandwich, Choco Waffle, Tacos, Momos, Cheese Nachos"
+    },
+    {
+      "id": 920,
+      "name": "Cafe Shuffle",
+      "address": "941, 3rd FLOOR, 21st Main, 22nd Cross, Banashankari 2nd stage, Opposite to BDA complex, Banashankari",
+      "cuisine": "Cafe, Italian, Continental",
+      "contact": "91 9742166777",
+      "rate": "4.2/5",
+      "location": "Banashankari",
+      "Desc": "Mocktails, Peri Fries, Lasagne, Pizza, Chicken Bbq Wings, Virgin Mojito, Nachos"
+    },
+    {
+      "id": 558,
+      "name": "The Coffee Shack",
+      "address": "6th Block, 3rd Stage, Banashankari, Bangalore",
+      "cuisine": "Cafe, Chinese, Continental, Italian",
+      "contact": "91 9731644212",
+      "rate": "4.2/5",
+      "location": "Banashankari",
+      "Desc": "Coffee, Spaghetti, Pancakes, Nachos, Pasta, Sandwich, Garlic Bread"
+    },
+    {
+      "id": 925,
+      "name": "Caf Eleven",
+      "address": "111, Sapphire Toys Building, 100 Feet Ring Road, Banashankari, Bangalore",
+      "cuisine": "Cafe, Continental",
+      "contact": "080 49577715",
+      "rate": "4.0/5",
+      "location": "Banashankari",
+      "Desc": "Sandwich, Omelette, Ice Tea, Virgin Mojito, Hot Chocolate, Pasta Arrabiata, Hazelnut Cappuccino"
+    },
+    {
+      "id": 696,
+      "name": "San Churro Cafe",
+      "address": "1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",
+      "cuisine": "Cafe, Mexican, Italian",
+      "contact": "91 9663487993",
+      "rate": "3.8/5",
+      "location": "Banashankari",
+      "Desc": "Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza"
+    },
+    {
+      "id": 124,
+      "name": "Cafe Vivacity",
+      "address": "2303, 21st Cross, K R Road, 2nd Stage, Banashankari, Bangalore",
+      "cuisine": "Cafe",
+      "contact": "080 26768182 91 9845704455",
+      "rate": "3.8/5",
+      "location": "Banashankari",
+      "Desc": "Garlic Bread, Burgers, Sandwiches, Pizza, Hot Chocolate Fudge, Waffles, Potato Wedges"
+    },
+    {
+      "id": 299,
+      "name": "Catch up ino",
+      "address": "241, 4th Floor, 100 Feet Ring Road, Opposite Kamakya Theatre, Banashankari, Bangalore",
+      "cuisine": "Cafe, Fast Food, Continental, Chinese, Momos",
+      "contact": "91 9972988038 91 9900121238",
+      "rate": "3.9/5",
+      "location": "Bnashankari",
+      "Desc": "Momos, Mushroom Bruschettas, Jalapeno Cheeseballs, Pasta, Red Velvet Shake, Red Velvet Milkshake, Maggi"
+    },
+    {
+      "id": 565,
+      "name": "Kirthis Biryani",
+      "address": "405, 24th Cross, 9th Main, 2nd Stage, Banashankari, Bangalore",
+      "cuisine": "Chinese, Cafe, Italian",
+      "contact": "080 26711554 91 9741406338",
+      "rate": "3.8/5",
+      "location": "Banashankari",
+      "Desc": "Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails"
+    },
+    {
+      "id": 428,
+      "name": "TH Cafe",
+      "address": "504, CJ Venkata Das Road, Padmanabhangar, 2nd Stage, Banashankari, Bangalore",
+      "cuisine": "Cafe, Italian, American",
+      "contact": "91 8884726600",
+      "rate": "3.9/5",
+      "location": "Banashankari",
+      "Desc": "Cheese Maggi, Peri Peri Fries, Pasta Arrabiata"
+    },
+    {
+      "id": 736,
+      "name": "The Vintage Cafe",
+      "address": "146, 50 ft Road, 3rd Phase, 3rd Stage, Near Katriguppe Water Tank Circle, Banashankari, Bangalore",
+      "cuisine": "Cafe, French, North Indian",
+      "contact": "91 9880016665 91 8217311687",
+      "rate": "3.0/5",
+      "location": "Banashankari",
+      "Desc": "Burgers, Caramel Milkshake, Iced Coffee, Iced Tea"
+    },
+    {
+      "id": 732,
+      "name": "Cafe Coffee Day",
+      "address": "SRF Complex, Near BDA Complex, Kathreguppe Main Road, Banashankari, Bangalore",
+      "cuisine": "Cafe, Fast Food",
+      "contact": "080 32486296",
+      "rate": "3.6/5",
+      "location": "Banashankari",
+      "Desc": "Coffee"
+    },
+    {
+      "id": 532,
+      "name": "My Tea House",
+      "address": "224/Y, 4th Phase, 7th Block, 100 Feet Ring Road, Near Kamakya Theatre, Banashankari, Bangalore",
+      "cuisine": "Italian, Fast Food, Cafe, European",
+      "contact": "080 65975430 91 7337733798",
+      "rate": "3.6/5",
+      "location": "Banashankari",
+      "Desc": "Pasta, Iced Tea"
+    },
+    {
+      "id": 156,
+      "name": "Srinathjis Cafe",
+      "address": "112, Bull Temple Road,next to more Basavanagudi, Bangalore",
+      "cuisine": "North Indian, Cafe, Chinese, Fast Food",
+      "contact": "080 26600704 91 9342593424",
+      "rate": "3.8/5",
+      "location": "Basavanagudi",
+      "Desc": "Paratha, Sandwich, Chilli Idli, Noodles, Sandwiches, Lime Soda"
+    },
+    {
+      "id": 149,
+      "name": "Redberrys",
+      "address": "30, Surveyor Street, DVG Road, Basavanagudi, Bangalore",
+      "cuisine": "Cafe, Italian",
+      "contact": "91 9148421256",
+      "rate": "4.0/5",
+      "location": "Basavanagudi",
+      "Desc": "Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam"
+    },
+    {
+      "id": 139,
+      "name": "Foodiction",
+      "address": "2/1, 7th Main, Dwarakangar, Hosakeregalli, Banashankari, Bangalore",
+      "cuisine": "North Indian, Fast Food, Chinese, Burger",
+      "contact": "91 9916107070",
+      "rate": "2.8/5",
+      "location": "Banashankari",
+      "Desc": "Burgers, Lassi, Chicken Grill, Naan, Momos, Chicken Burger, Biryani"
+    },
+    {
+      "id": 635,
+      "name": "Empire Restaurant",
+      "address": "4, Opposite NMKRV College, 21st C Cross Road, 3rd Block, Jayanagar, Bangalore",
+      "cuisine": "North Indian, Mughlai, South Indian, Chinese",
+      "contact": "080 49653266",
+      "rate": "4.4/5",
+      "location": "Jayanagar",
+      "Desc": "Chicken Tikka Masala, Mutton Keema Dosa, Mutton Biryani, Raan Biryani, Brain Fry, Chicken Grill, Ghee Rice"
+    },
+    {
+      "id": 914,
+      "name": "Kitchen Garden",
+      "address": "1750, 14th Main, Police Station Road, Kumaraswamy Layout, Bangalore",
+      "cuisine": "North Indian, Chinese",
+      "contact": "080 49652867",
+      "rate": "3.6/5",
+      "location": "Kumaraswamy Layout",
+      "Desc": "Biryani"
+    },
+    {
+      "id": 379,
+      "name": "Recipe",
+      "address": "1621, 1st Floor, 50 Feet Main Road, Kumaraswamy Layout, Bangalore",
+      "cuisine": "North Indian, Chinese, Biryani, Rolls",
+      "contact": "91 8043755256 91 9886073774",
+      "rate": "4.0/5",
+      "location": "Kumaraswamy Layout",
+      "Desc": "Butter Chicken, Noodles, Thali, Biryani"
+    },
+    {
+      "id": 320,
+      "name": "Beijing Bites",
+      "address": "179, 1st Floor, Jawarlalnehru Road, BEML Layout, Rajarajeshwari Nagar, Bangalore",
+      "cuisine": "Chinese, Thai",
+      "contact": "080 28606888 080 28606886",
+      "rate": "3.7/5",
+      "location": "Vijay Nagar",
+      "Desc": "Momos, Dragon Chicken, Hakka Noodles, Chowmein, Chop Suey, Chilli Garlic Noodles, Garlic Rice"
+    },
+    {
+      "id": 519,
+      "name": "Biryanis And More",
+      "address": "178, Next To Old KEB Office, 8th F Main Road, 24b Cross, 3rd Block, Jayanagar, Bangalore",
+      "cuisine": "Biryani, North Indian, Chinese, Andhra, South Indian",
+      "contact": "080 48542442 91 7337271771",
+      "rate": "4.0/5",
+      "location": "Jayanagar",
+      "Desc": "Prawn Biryani, Dragon Chicken, Chicken Boneless Biryani, Afghani Biryani, Mughlai Biryani, Paneer Tikka Biryani, Gongura Biryani"
+    },
+    {
+      "id": 6,
+      "name": "Sri Guru Kottureshwara Davangere Benne Dosa",
+      "address": "49/1, Subbaraoshetty Road, Netkallappa Circle, Basavanagudi, Bangalore",
+      "cuisine": "South Indian",
+      "contact": "91 9448305384 91 9060079480",
+      "rate": "4.1/5",
+      "location": "Basavanagudi",
+      "Desc": "Benne Dosa, Mirchi Bajji, Filter Coffee, Poha, Tea, Butter Dosa, Crispy Dosa"
+    },
+    {
+      "id": 239,
+      "name": "Meghana Foods",
+      "address": "52, 1st Floor, 33rd Cross, 4th Block, Jayanagar, Bangalore",
+      "cuisine": "Biryani, North Indian, Chinese",
+      "contact": "080 49653564",
+      "rate": "4.4/5",
+      "location": "Jayanagar",
+      "Desc": "Chicken Boneless Biryani, Hyderabadi Biryani, Paneer Biryani, Tandoori Chicken, Vegetable Biryani, Chicken Kebab, Raita"
+    },
+    {
+      "id": 779,
+      "name": "Imperial Restaurant",
+      "address": "153, Satellite Bus Stand, Byataranyapura, Mysore Road, Bangalore",
+      "cuisine": "North Indian, Chinese, Biryani, Beverages",
+      "contact": "91 7338431313 080 26741313",
+      "rate": "3.7/5",
+      "location": "Mysore Road",
+      "Desc": "Kadhai Paneer, Ghee Rice, Chicken Grill, Shawarma, Paratha, Biryani, Butter Chicken"
+    },
+    {
+      "id": 535,
+      "name": "Wahab",
+      "address": "28/29, 9th Main Road, 3rd Block, Jayanagar, Bangalore",
+      "cuisine": "North Indian, Mughlai, Chinese",
+      "contact": "91 9845088001",
+      "rate": "3.7/5",
+      "location": "Jayanagar",
+      "Desc": "Chicken Biryani, Rolls"
+    },
+    {
+      "id": 399,
+      "name": "Rasoi",
+      "address": "86, Shakthi Arcade, 21st Main, 2nd Stage, Near KIMS College and BDA Complex, Banashankari, Bangalore",
+      "cuisine": " but was disappointed.\\nBut the staff and the service is great.')",
+      "contact": " wedges",
+      "rate": " It is rooftop.\\nWe ordered French fries",
+      "location": " bhel",
+      "Desc": " hot Goa and river runs red.\\nI was not really satisfied with the food nor the mock tails.\\nHad been here with lot of expectations"
+    },
+    {
+      "id": 717,
+      "name": "Cafe Ajfan",
+      "address": "Shop 66/1, 4th Block, Near Maiys Hotel, 33rd Cross Road, Jayanagar, Bangalore",
+      "cuisine": "Cafe, Continental, Beverages",
+      "contact": "91 7022022107 91 9606791771",
+      "rate": "4.2/5",
+      "location": "Jayanagar",
+      "Desc": "Sandwiches, Pasta, Cobb Salad, Pizza, Burgers, Calzone, Fries"
+    },
+    {
+      "id": 640,
+      "name": "AtwoB  Adyar Ananda Bhavan",
+      "address": "153, Satellite Bus Stand, Byataranyapura, Mysore Road, Bangalore",
+      "cuisine": "South Indian, Fast Food, Street Food",
+      "contact": "080 26746999  080 26748999",
+      "rate": "3.8/5",
+      "location": "Mysore Road",
+      "Desc": "Pav Bhaji, Masala Dosa, Idli Vada, Filter Coffee, Pongal, Curd Rice, Kesari Bath"
+    },
+    {
+      "id": 697,
+      "name": "Imperial Restaurant",
+      "address": "153, Satellite Bus Stand, Byataranyapura, Mysore Road, Bangalore",
+      "cuisine": "North Indian, Chinese, Biryani, Beverages",
+      "contact": "91 7338431313  080 26741313",
+      "rate": "3.7/5",
+      "location": "Mysore Road",
+      "Desc": "Kadhai Paneer, Ghee Rice, Chicken Grill, Shawarma, Paratha, Biryani, Butter Chicken"
+    },
+    {
+      "id": 99,
+      "name": "Belly Squad Food Truck",
+      "address": "Back Gate of BMS College Hanumanthanagar, Basavanagudi, Bengaluru",
+      "cuisine": "Chinese, Rolls, Biryani, Momos",
+      "contact": "91 7760617526",
+      "rate": "3.8/5",
+      "location": "South Bangalore",
+      "Desc": "Biryani, Momos, Rolls"
+    },
+    {
+      "id": 781,
+      "name": "Deja Vu Resto Bar",
+      "address": "5th Floor, Gopalan Innovation Mall, Bannerghatta Road, Bangalore",
+      "cuisine": "North Indian, Italian",
+      "contact": "91 9632499855",
+      "rate": "4.4/5",
+      "location": "Bannerghatta Road",
+      "Desc": "Gajar Ka Halwa, Chilli Chicken, Hara Bhara Kebab, Custard, Brownie, Sev Puri, Pasta"
+    },
+    {
+      "id": 481,
+      "name": "Fattoush",
+      "address": "128/54/10, First floor, Opposite IIM - B, Dasarapalya, Bannerghatta Road, Bangalore",
+      "cuisine": "Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood",
+      "contact": "080 41425553 91 7337830044",
+      "rate": "4.2/5",
+      "location": "Bannerghatta Road",
+      "Desc": "Mango Chiller, Fattoush, Prawn, Salads, Vegetable Biryani, Irani Chicken Tikka, Chilli Chicken"
+    },
+    {
+      "id": 395,
+      "name": "Barbeque Nation",
+      "address": "67, 15th Cross, 6th B Main, JP Nagar, Bangalore",
+      "cuisine": "North Indian, European, Mediterranean, BBQ, Kebab",
+      "contact": "91 8064806060",
+      "rate": "4.7/5",
+      "location": "JP Nagar",
+      "Desc": "Lunch Buffet, Goan Fish Curry, Mocktails, Chicken Biryani, Cocktails, Paan Kulfi, Pasta"
+    },
+    {
+      "id": 434,
+      "name": "Sattvam",
+      "address": "281, 2nd Floor, 15th Cross, 5th Phase, JP Nagar, Bangalore",
+      "cuisine": "North Indian, South Indian",
+      "contact": "080 26595000 91 9483275526",
+      "rate": "4.3/5",
+      "location": "JP Nagar",
+      "Desc": "Noodles, Veg Buffet, Mango Juice, White Pasta, Panipuri, Thin Crust Pizza, Dal Makhani"
+    },
+    {
+      "id": 389,
+      "name": "Zaitoon",
+      "address": "21, 24th Main Road, 6th Phase, JP Nagar, Bangalore",
+      "cuisine": "BBQ, Arabian, Chinese, North Indian, Desserts",
+      "contact": "080 41477977 080 41488988",
+      "rate": "4.1/5",
+      "location": "JP Nagar",
+      "Desc": "Hummus Falafel, Gulab Jamun, Shawarma, Bbq Chicken, Mojito, Chicken Biryani, Manchow Soup"
+    },
+    {
+      "id": 940,
+      "name": "Oye Amritsar",
+      "address": "99/4, Nataraja Layout, 7th Phase, JP Nagar, Bangalore",
+      "cuisine": "North Indian",
+      "contact": "080 49577007 91 9945524705",
+      "rate": "3.8/5",
+      "location": "JP Nagar",
+      "Desc": "Lassi, Raita, Dal Makhani, Panneer Butter Masala, Jalebi, Biryani, Paneer Tikka"
+    },
+    {
+      "id": 785,
+      "name": "eat fit",
+      "address": "96, 29th Main, 23rd Cross, 2nd Stage, BTM, Bangalore",
+      "cuisine": "Healthy Food, North Indian, Biryani, Continental, Sandwich, Desserts",
+      "contact": "91 9008143437 91 7259710298",
+      "rate": "4.5/5",
+      "location": "BTM",
+      "Desc": "Healthy Breakfast, Salads, Date Pudding, Chicken Curry, Hakka Noodles, Fruit Bowl, Dal Makhani"
+    },
+    {
+      "id": 655,
+      "name": "Sai Abhiruchi",
+      "address": "808, 1st Floor, Above Eye World Optical, 7th Cross, 2nd Stage, BTM, Bangalore",
+      "cuisine": "Andhra, North Indian, Biryani",
+      "contact": "080 49653037",
+      "rate": "3.7/5",
+      "location": "BTM",
+      "Desc": "Dum Biryani, Dal Fry, Paneer Biryani"
+    },
+    {
+      "id": 229,
+      "name": "Capsicum Family Restaurant",
+      "address": "774, 3rd Floor, 16th Main, 7th Cross, 2nd Stage, BTM, Bangalore",
+      "cuisine": "Biryani, North Indian",
+      "contact": "080 49652641",
+      "rate": "3.8/5",
+      "location": "BTM",
+      "Desc": "Mutton Biryani"
+    },
+    {
+      "id": 815,
+      "name": "Easy Bites",
+      "address": "1260 SY 35/4 SJR Tower's, 24th Main Puttanhalli, 7th Phase, JP Nagar Bangalore",
+      "cuisine": "Fast Food, Sandwich",
+      "contact": "080 43334321",
+      "rate": "4.1/5",
+      "location": "JP Nagar",
+      "Desc": "Sandwich, Crispy Chicken, French Fries"
+    },
+    {
+      "id": 23,
+      "name": "Hiyar Majhe Kolkata",
+      "address": "57/1, Near Alliance University, 19th Cross, 7th Main, 2nd Stage, BTM, Bangalore",
+      "cuisine": "Bengali, North Indian",
+      "contact": "91 9108919806  91 9739059571",
+      "rate": "4.0/5",
+      "location": "BTM",
+      "Desc": "Radhaballavi, Biryani, Egg Noodles, Egg Roll, Fish Curry, Egg Devils, Thali"
+    },
+    {
+      "id": 985,
+      "name": "Sri Lakshmi Dhaba",
+      "address": "23, 7th Cross, 2nd Main, NS Palya Main Road, 2nd Stage, BTM, Bangalore",
+      "cuisine": "North Indian",
+      "contact": "91 8970548240  91 9739369901",
+      "rate": "2.9/5",
+      "location": "BTM",
+      "Desc": "Paratha, Shahi Paneer"
+    },
+    {
+      "id": 945,
+      "name": "Al Bek",
+      "address": "1260, SY 35/4, SJR Towers, 24th Main Puttanhalli, 7th Phase, JP Nagar, Bangalore",
+      "cuisine": "Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",
+      "contact": "080 43334321",
+      "rate": "3.6/5",
+      "location": "JP Nagar",
+      "Desc": "Chicken Grill, Biryani"
+    },
+    {
+      "id": 513,
+      "name": "Punjabi Nawabi",
+      "address": "Shop 9, 1st Floor, SBI Building, New DLF New Town, Opposite Ample Mart, Bannerghatta Road, Bangalore",
+      "cuisine": "North Indian",
+      "contact": "91 9916713131  91 9916813131",
+      "rate": "3.8/5",
+      "location": "Bannerghatta Road",
+      "Desc": "Dal Makhani, Lassi, Butter Chicken, Panneer Butter Masala, Mix Veg, Saag, Butter Naan"
+    },
+    {
+      "id": 370,
+      "name": "Swad Punjab Da",
+      "address": "324, 23rd Main, 3rd Cross, 2nd Stage, BTM, Bangalore",
+      "cuisine": "North Indian",
+      "contact": "91 8360151853",
+      "rate": "4.0/5",
+      "location": "BTM",
+      "Desc": "Lassi, Roti, Veg Thali, Aloo Paratha, Egg Curry"
+    },
+    {
+      "id": 53,
+      "name": "Kitchens JP Nagar",
+      "address": "#35/4, 24th main JP Nagar 7th phase, Puttenahalli, JP Nagar, Bangalore",
+      "cuisine": "Biryani, Kerala, Mughlai, Street Food, North Indian, Chinese, South Indian, Andhra",
+      "contact": "080 43334321",
+      "rate": "3.9/5",
+      "location": "JP Nagar",
+      "Desc": "Vegetable Biryani"
+    },
+    {
+      "id": 2,
+      "name": "Krishna Kuteera",
+      "address": "19/3C, Avanishringeri Nagar, Nyanappanahalli Village, Bannerghatta Road, Bangalore",
+      "cuisine": "South Indian, North Indian, Chinese",
+      "contact": "91 9035011234",
+      "rate": "4.0/5",
+      "location": "Bannerghatta Road",
+      "Desc": "Pav Bhaji, Coffee, Set Dosa, Vada, Masala Poori"
+    },
+    {
+      "id": 748,
+      "name": "Fish Chain",
+      "address": "1260 SY 35/4 SJR Tower's, 24th Main Puttanhalli, 7th Phase, JP Nagar, Bangalore",
+      "cuisine": "Seafood, BBQ, Biryani",
+      "contact": "91 7676564444",
+      "rate": "3.9/5",
+      "location": "JP Nagar",
+      "Desc": "Fish Curry"
+    },
+    {
+      "id": 245,
+      "name": "Sree Krishna Kafe",
+      "address": "5, SSAR Towers, Opposite Royal School, 24th Main Road, 5th Phase, JP Nagar, Bangalore",
+      "cuisine": "South Indian",
+      "contact": "91 8792556140",
+      "rate": "3.9/5",
+      "location": "JP Nagar",
+      "Desc": "Vada, Pongal, Podi Idli, Masala Dosa, Podi Dosa, Idiyappam, Rice"
+    },
+    {
+      "id": 460,
+      "name": "Owls Kitchen",
+      "address": "29th Main Road, EWS Colony, Stage 2 Bengaluru, Karnataka",
+      "cuisine": "North Indian, Chinese",
+      "contact": "080 45133111 91 9900311141",
+      "rate": "3.1/5",
+      "location": "BTM",
+      "Desc": "Brownie"
+    },
+    {
+      "id": 75,
+      "name": "Deccan Spice",
+      "address": "4, Sai Arcade,1st Floor, Wilson Garden Society, Kothnur Main Road, 7th Phase, JP Nagar, Bangalore",
+      "cuisine": "North Indian, South Indian, Biryani",
+      "contact": "91 9902528053 080 48651758",
+      "rate": "3.5/5",
+      "location": "JP Nagar",
+      "Desc": "Hyderabadi Biryani, Dum Ka Chicken, Rice"
+    },
+    {
+      "id": 816,
+      "name": "Zatar House",
+      "address": "V-8, 3rd Cross, Keonics Road, Electronic City, Bangalore",
+      "cuisine": "South Indian, North Indian, Chinese",
+      "contact": "91 7338538555 91 7338526555",
+      "rate": "4.0/5",
+      "location": "Electronic City",
+      "Desc": "Buttermilk, Jal-jeera, Churma, Palak Kofta, Lassi, Gulab Jamun, Dahi Bhindi"
+    },
+    {
+      "id": 449,
+      "name": "Sri Lakshmi Dhaba",
+      "address": "23, 7th Cross, 2nd Main, NS Palya Main Road, 2nd Stage, BTM, Bangalore",
+      "cuisine": "North Indian",
+      "contact": "91 8970548240 91 9739369901",
+      "rate": "2.9/5",
+      "location": "BTM",
+      "Desc": "Paratha, Shahi Paneer"
+    },
+    {
+      "id": 981,
+      "name": "BANGALORE BOX",
+      "address": "934, 1st Block, 4th Stage, DC Halli, BG Road, BTM, Bangalore",
+      "cuisine": "Asian, Continental, Finger Food",
+      "contact": "91 9901402636 91 8049577779",
+      "rate": "4.1/5",
+      "location": "BTM",
+      "Desc": "Biryani, Chicken Bbq Wings, Mocktails, Sangria, Cocktails, Burgers, Pasta"
+    },
+    {
+      "id": 719,
+      "name": "Chutney Chang",
+      "address": "Cosmopolitan Club, 22nd Cross, 3rd Block, Jayanagar, Bangalore",
+      "cuisine": "North Indian, Chinese, BBQ",
+      "contact": "080 22443007 91 9901967373",
+      "rate": "4.1/5",
+      "location": "Jayanagar",
+      "Desc": "Veg Momos, Brownie Chocolate, Palak Chaat, Mutton Biryani, Dahipuri, Fish, Sea Food"
+    },
+    {
+      "id": 709,
+      "name": "Empire Restaurant",
+      "address": "4, Opposite NMKRV College, 21st C Cross Road, 3rd Block, Jayanagar, Bangalore",
+      "cuisine": "North Indian, Mughlai, South Indian, Chinese",
+      "contact": "080 49653266",
+      "rate": "4.4/5",
+      "location": "Jayanagar",
+      "Desc": "Chicken Tikka Masala, Mutton Keema Dosa, Mutton Biryani, Raan Biryani, Brain Fry, Chicken Grill, Ghee Rice"
+    },
+    {
+      "id": 937,
+      "name": "Tree Top",
+      "address": "Temple Tree Hotel, 3, 9th Cross, Wilson Garden, Bangalore",
+      "cuisine": "Continental, Chinese, North Indian, South Indian",
+      "contact": "080 49652744",
+      "rate": "3.8/5",
+      "location": "Wilson Garden",
+      "Desc": "Friendly Staff"
+    },
+    {
+      "id": 671,
+      "name": "The Biriyani Pedia",
+      "address": "3rd Cross Road, Venkateshwara Layout, Suddagunte Palya, BTM, Bangalore",
+      "cuisine": "Biryani",
+      "contact": "91 9809202588",
+      "rate": "3.9/5",
+      "location": "BTM",
+      "Desc": "Chicken Stew, Ghee Rice, Biryani, Chai"
+    },
+    {
+      "id": 955,
+      "name": "Wazirs",
+      "address": "546/5, Langford Road, Opposite Hockey Stadium, Shanti Nagar, Bangalore",
+      "cuisine": "North Indian, Chinese",
+      "contact": "080 22292668 080 41145555",
+      "rate": "3.3/5",
+      "location": "Shanti Nagar",
+      "Desc": "Biryani, Butter Chicken, Butter Naan, Kalmi Kebab, Roti, Rolls, Fried Rice"
+    },
+    {
+      "id": 878,
+      "name": "Mayuri",
+      "address": "20, J.C. Road, City Market Area, City Market, Bangalore",
+      "cuisine": "North Indian, Chinese",
+      "contact": "080 26704284 080 26708073",
+      "rate": "4.0/5",
+      "location": "City Market",
+      "Desc": "Chicken Biryani, Chilli Chicken, Omelette, Mutton Biryani"
+    },
+    {
+      "id": 830,
+      "name": "Parika Multicuisine Restaurant",
+      "address": "Hotel Ramanashree, 16, Raja Ram Mohan Roy Road, Richmond Road, Bangalore",
+      "cuisine": "North Indian, Chinese, Mughlai",
+      "contact": "080 49652474",
+      "rate": "3.8/5",
+      "location": "Richmond Road",
+      "Desc": "Tandoori Chicken, Kheer, Chicken Tikka, Butter Naan, Sweet Lassi, Caramel Custard, Panipuri"
+    },
+    {
+      "id": 45,
+      "name": "Gustoes Beer House",
+      "address": "10, 30th Main, Deve Gowda Petrol Bunk Road, 3rd Stage, Banashankari, Bangalore",
+      "cuisine": "Continental, Italian, Mexican, North Indian, Chinese, Steak",
+      "contact": "080 49653521",
+      "rate": "4.1/5",
+      "location": "Banashankari",
+      "Desc": "Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings"
+    },
+    {
+      "id": 411,
+      "name": "Belly Squad Food Truck",
+      "address": "Back Gate of BMS College Hanumanthanagar, Basavanagudi, Bengaluru",
+      "cuisine": "Chinese, Rolls, Biryani, Momos",
+      "contact": "91 7760617526",
+      "rate": "3.8/5",
+      "location": "South Bangalore",
+      "Desc": "Biryani, Momos, Rolls"
+    },
+    {
+      "id": 114,
+      "name": "Swathi Deluxe Restaurant",
+      "address": "Near Big Bazar, Double Road, Shanti Nagar, Bangalore",
+      "cuisine": "North Indian",
+      "contact": "91 9880218888 080 22210083",
+      "rate": "3.0/5",
+      "location": "Shanti Nagar",
+      "Desc": "Biryani, Chicken Kebab, Andhra Meal, Lime Soda"
+    },
+    {
+      "id": 35,
+      "name": "Taj Restaurant",
+      "address": "Opposite City Market Bus Stop, NR Road, City Market, Bangalore",
+      "cuisine": "North Indian, Biryani",
+      "contact": "080 41249978",
+      "rate": "3.8/5",
+      "location": "City Market",
+      "Desc": "Chicken Kebab, Ghee Rice, Chicken Grill, Paratha, Chicken Biryani"
+    },
+    {
+      "id": 686,
+      "name": "Tree Top",
+      "address": "Temple Tree Hotel, 3, 9th Cross, Wilson Garden, Bangalore",
+      "cuisine": "Continental, Chinese, North Indian, South Indian",
+      "contact": "080 49652744",
+      "rate": "3.8/5",
+      "location": "Wilson Garden",
+      "Desc": "Friendly Staff"
+    },
+    {
+      "id": 525,
+      "name": "Shanmukha",
+      "address": "62, RB Fashion House, Jyoti Nivas College Road, Koramangala 5th Block, Bangalore",
+      "cuisine": "Biryani, Andhra, North Indian, Chinese",
+      "contact": "080 49652639",
+      "rate": "4.0/5",
+      "location": "Koramangala 5th Block",
+      "Desc": "Chicken Dum Biryani, Kerala Parotta, Chicken Boneless Biryani, Vegetable Biryani, Naan, Fish, Gulab Jamun"
+    },
+    {
+      "id": 474,
+      "name": "Xtreme Sports Bar",
+      "address": "75, Play Arena, Central Jail Road, Kasavanahalli, Sarjapur Road, Bangalore",
+      "cuisine": "Continental, Chinese, North Indian",
+      "contact": "080 49653459",
+      "rate": "4.0/5",
+      "location": "Sarjapur Road",
+      "Desc": "Lunch Buffet, Boti Kebab, Beer, Potato Wedges, Gulab Jamun, Pizza, Club Sandwich"
+    },
+    {
+      "id": 773,
+      "name": "BGs Poolside Bar Grill",
+      "address": "Courtyard Fairfield by Marriott, Outer Ring Road, Bellandur, Bangalore",
+      "cuisine": "Mediterranean, Italian, Mexican",
+      "contact": "91 9513584681 91 9538877533",
+      "rate": "4.1/5",
+      "location": "Bellandur",
+      "Desc": "Cocktails, Pasta, Sunday Brunch, Red Wine Sangria, Shotgun Chicken, New Zealand Lamb Chops, Beer"
+    },
+    {
+      "id": 522,
+      "name": "Tipsy Bull The Bar Exchange",
+      "address": "24-26, 414/80/2, Varthur Hobli, Outer Ring Road",
+      "cuisine": "North Indian, Chinese, Continental, Mexican",
+      "contact": "080 49653133",
+      "rate": "4.4/5",
+      "location": "Bellandur",
+      "Desc": "Falafel, Cocktails, Mocktails, Sea Food, Spring Roll, Mutton Pepper Fry, Pasta"
+    },
+    {
+      "id": 29,
+      "name": "Byg Brewski Brewing Company",
+      "address": "Behind MK Retail, Sarjapur Road, Bangalore",
+      "cuisine": "Continental, North Indian, Italian, South Indian, Finger Food",
+      "contact": "91 8039514766",
+      "rate": "4.9/5",
+      "location": "Sarjapur Road",
+      "Desc": "Cocktails, Dahi Kebab, Rajma Chawal, Butter Chicken, Craft Beer, Chicken Dumplings, Teriyaki Fish"
+    },
+    {
+      "id": 863,
+      "name": "Float",
+      "address": "20\\5, Panathur Junction, Outer Ring Road, Kadubeessanahalli, Marathahalli, Bangalore",
+      "cuisine": "North Indian, Japanese",
+      "contact": "91 9066887042 91 9066887086",
+      "rate": "4.4/5",
+      "location": "Marathahalli",
+      "Desc": "Butter Fish, Chicken Burritos, Cocktails, Mocktails, Rabri, Exotic Veg Pizza, Potato Wedges"
+    },
+    {
+      "id": 224,
+      "name": "Float",
+      "address": "20\\5, Panathur Junction, Outer Ring Road, Kadubeessanahalli, Marathahalli, Bangalore",
+      "cuisine": "North Indian, Japanese",
+      "contact": "91 9066887042 91 9066887086",
+      "rate": "4.4/5",
+      "location": "Marathahalli",
+      "Desc": "Butter Fish, Chicken Burritos, Cocktails, Mocktails, Rabri, Exotic Veg Pizza, Potato Wedges"
+    },
+    {
+      "id": 742,
+      "name": "Tapout Tavern",
+      "address": "13/23, 4th Floor, Haralur Main Road, Ambalipura, Sarjapur Road, Bangalore",
+      "cuisine": "American, Asian, Continental, North Indian, South Indian, Chinese",
+      "contact": "91 8043703344 91 9611157878",
+      "rate": "3.9/5",
+      "location": "Marathahalli",
+      "Desc": "Dal Makhani, Cocktails, Lunch Buffet, Breakfast Buffet, Pasta, Noodles, Fish"
+    },
+    {
+      "id": 258,
+      "name": "Float",
+      "address": "20\\5, Panathur Junction, Outer Ring Road, Kadubeessanahalli, Marathahalli, Bangalore",
+      "cuisine": "North Indian, Japanese",
+      "contact": "91 9066887042 91 9066887086",
+      "rate": "4.4/5",
+      "location": "Marathahalli",
+      "Desc": "Butter Fish, Chicken Burritos, Cocktails, Mocktails, Rabri, Exotic Veg Pizza, Potato Wedges"
+    },
+    {
+      "id": 802,
+      "name": "Parika Multicuisine Restaurant",
+      "address": "Hotel Ramanashree, 16, Raja Ram Mohan Roy Road, Richmond Road, Bangalore",
+      "cuisine": "North Indian, Chinese, Mughlai",
+      "contact": "080 49652474",
+      "rate": "3.8/5",
+      "location": "Richmond Road",
+      "Desc": "Tandoori Chicken, Kheer, Chicken Tikka, Butter Naan, Sweet Lassi, Caramel Custard, Panipuri"
+    },
+    {
+      "id": 929,
+      "name": "Kitchen On Table",
+      "address": "Shantala nagar, Ashok Nagar, Brigade Road, Bangalore",
+      "cuisine": "Japanese, Sushi, Asian",
+      "contact": "91 9343044750",
+      "rate": "4.0/5",
+      "location": "Brigade Road",
+      "Desc": "Sushi, Sea Food"
+    },
+    {
+      "id": 485,
+      "name": "Panchavati Gaurav Thali",
+      "address": "5th Floor, Garuda Mall, Magrath Road, Brigade Road, Bangalore",
+      "cuisine": "Rajasthani, Gujarati",
+      "contact": "91 8041410033 91 9731693987",
+      "rate": "4.0/5",
+      "location": "Brigade Road",
+      "Desc": "Veg Thali, Dahi Vada, Malpua, Rajasthani Thali, Rabri, Buttermilk, Jalebi"
+    },
+    {
+      "id": 100,
+      "name": "Saatvikk",
+      "address": "9, First floor, Curzon Complex, Brigade Road, Bangalore",
+      "cuisine": "North Indian, South Indian, Continental",
+      "contact": "91 8041216902",
+      "rate": "2.8/5",
+      "location": "Brigade Road",
+      "Desc": "Cheese Garlic Naan, Coffee, Corn Soup, Pasta"
+    },
+    {
+      "id": 160,
+      "name": "Brigade Iris Hotel",
+      "address": "Iris Hotel, Next to Eva Mall, 70, Brigade Road, Bangalore",
+      "cuisine": "Chinese, North Indian, Pizza",
+      "contact": "080 40555888 080 30555888",
+      "rate": "3.9/5",
+      "location": "Brigade Road",
+      "Desc": "Salads, Jalebi, Pasta, Rabri, Fish Curry, Salad, Mysore Pak"
+    },
+    {
+      "id": 306,
+      "name": "Olive Bar And Kitchen",
+      "address": "16, Wood Street, Ashok Nagar, Richmond Road, Bangalore",
+      "cuisine": "Mediterranean, European, Salad",
+      "contact": "080 41128400 91 9945565483",
+      "rate": "4.5/5",
+      "location": "Richmond Road",
+      "Desc": "Salads, Cocktails, Hazelnut Cake, Pepperoni Pizza, Mocktails, Calamari, Risotto"
+    },
+    {
+      "id": 183,
+      "name": "JW Marriott Bengaluru",
+      "address": "JW Marriott, 24/1, Vittal Mallya Road, Lavelle Road, Bangalore",
+      "cuisine": "North Indian, Continental, Italian",
+      "contact": "080 49652886",
+      "rate": "4.4/5",
+      "location": "Lavelle Road",
+      "Desc": "Pasta, Breakfast Buffet, Lasagne, Salads, Chocolate Cake, Chicken Soup, Seafood Salad"
+    },
+    {
+      "id": 112,
+      "name": "The Tao Terraces",
+      "address": "5th Floor, 1 MG Mall, Opposite Vivanta by Taj, MG Road, Bangalore",
+      "cuisine": "Thai, Japanese, Korean, Burmese, Chinese",
+      "contact": "080 49653408",
+      "rate": "4.0/5",
+      "location": "MG Road",
+      "Desc": "Salads, Cocktails, Khao Suey, Jumbo Prawns, Veg Sushi, Espresso Martini, Tom Yum Soup"
+    },
+    {
+      "id": 777,
+      "name": "Rim Naam The Oberoi",
+      "address": "The Oberoi, 37-39, MG Road, Bangalore",
+      "cuisine": "Thai",
+      "contact": "080 25585858",
+      "rate": "4.6/5",
+      "location": "MG Road",
+      "Desc": "Seafood Soup, Mocktails, Mushroom Salad, Wine, Jasmine Rice, Som Tam, Thai Red Curry"
+    },
+    {
+      "id": 349,
+      "name": "Oh Calcutta",
+      "address": "14, 2nd Floor, Church Street, Bangalore",
+      "cuisine": "Bengali, Seafood",
+      "contact": "080 25326614 91 9379544302",
+      "rate": "4.4/5",
+      "location": "Church Street",
+      "Desc": "Fish, Curry Crab, Mocktails, Luchi, Kosha Mangsho, Sea Food, Daab Chingri"
+    },
+    {
+      "id": 685,
+      "name": "Caraway Kitchen Conrad Bengaluru",
+      "address": "Conrad Bengaluru, Kensington Road, Ulsoor, Bangalore",
+      "cuisine": "American, Continental, North Indian, South Indian",
+      "contact": "91 8884358678 91 8884463288",
+      "rate": "4.3/5",
+      "location": "Ulsoor",
+      "Desc": "Pasta, Pancakes, Pizza, Fish, Chaat"
+    },
+    {
+      "id": 167,
+      "name": "Mainland China",
+      "address": "First Floor, 14, Church Street, Bangalore",
+      "cuisine": "Chinese, Momos",
+      "contact": "080 49652555",
+      "rate": "4.5/5",
+      "location": "Church Street",
+      "Desc": "Hunan Tofu, Noodles, Jumbo Prawns, Jasmine Tea, Chicken Momo, Cocktails, Momos"
+    },
+    {
+      "id": 352,
+      "name": "Rasovara",
+      "address": "Level 2, The Collection, UB City, Vithal Mallya Road, Lavelle Road, Bangalore",
+      "cuisine": "Rajasthani, North Indian",
+      "contact": "080 41738968 91 9886060965",
+      "rate": "4.3/5",
+      "location": "Lavelle Road",
+      "Desc": "Thali, Aamras, Malpua, Lassi, Plain Rice, Buttermilk, Chaat"
+    },
+    {
+      "id": 202,
+      "name": "Barbeque Nation",
+      "address": "1/4, Ground Floor, Lido Mall, Swami Vivekananda Road, Ulsoor, Bangalore",
+      "cuisine": "North Indian, European, Mediterranean, BBQ, Kebab",
+      "contact": "91 8064806060 18001086060",
+      "rate": "4.4/5",
+      "location": "Ulsoor",
+      "Desc": "Mutton Seekh, Paan Kulfi, Biryani, Fish, Crispy Corn, Salads, Panipuri"
+    },
+    {
+      "id": 92,
+      "name": "Empire Restaurant",
+      "address": "36, Off MG Road, Church Street, Bangalore",
+      "cuisine": "North Indian, Mughlai, South Indian, Chinese",
+      "contact": "080 49653264",
+      "rate": "4.0/5",
+      "location": "Church Street",
+      "Desc": "Paneer Tikka, Chicken Popcorn, Bheja Fry, Brain Fry, Ghee Rice, Jumbo Shawarma, Biryani"
+    },
+    {
+      "id": 941,
+      "name": "Konark Vegetarian Restaurant",
+      "address": "50, Field Marshal Cariappa Road, Residency Road, Bangalore",
+      "cuisine": "North Indian, Chinese, Continental, South Indian, Street Food, Juices",
+      "contact": "080 41248812 91 9611774705",
+      "rate": "4.1 /5",
+      "location": "Residency Road",
+      "Desc": "Hyderabadi Biryani, Masala Poori, Butter Masala Dosa, Mughlai Biryani, Kulcha, Coffee, Chaat"
+    },
+    {
+      "id": 292,
+      "name": "The Market The Ritz Carlton",
+      "address": "The Ritz-Carlton, 99, Residency Road, Bangalore",
+      "cuisine": "North Indian, European, Thai",
+      "contact": "080 49148341",
+      "rate": "4.3 /5",
+      "location": "Residency Road",
+      "Desc": "Pizza, Waffles, Pasta, Sushi, Roti, Salads, Fish"
+    },
+    {
+      "id": 804,
+      "name": "Meat And Eat",
+      "address": "11, 24th Main, Ayodya Nagar, 5th Phase, JP Nagar, Bangalore",
+      "cuisine": "Fast Food, Burger",
+      "contact": "91 8144883399",
+      "rate": "3.7/5",
+      "location": "JP Nagar",
+      "Desc": "Burgers, Chicken Wings"
+    },
+    {
+      "id": 46,
+      "name": "Vaho Kafe Pressery",
+      "address": "227,Sitaram Complex, Bilekahalli,opp to IIM-B, Bannerghatta Road, Bangalore",
+      "cuisine": "Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",
+      "contact": "91 9845687999 080 41494199",
+      "rate": "3.9/5",
+      "location": "Bannerghatta Road",
+      "Desc": "Salad, Chicken Curry, Peri Peri Chicken, Thai Red Curry, Momos, Chicken Satay, Pasta"
+    }
+  ]
+}
